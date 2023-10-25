@@ -1,6 +1,6 @@
 import torch.nn as nn
 import torch
-import os chào thằng em nha
+import os
 
 
 def conv3x3(in_planes, out_planes, stride=1):
